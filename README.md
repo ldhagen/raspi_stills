@@ -1,2 +1,2 @@
 # raspi_stills
-Script for taking timelaspe pics
+Script for taking timelapse pics
